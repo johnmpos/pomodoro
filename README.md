@@ -8,6 +8,7 @@ Download the script and grant it permissions to run (chmod +x pomodoro.sh). When
 
  When you click 'ok' you will be able to continue writing the names of the sites, as soon as you click 'Cancel' it will go to the pomodoro and request some information such as the focus time you intend to have, the break time and the cycles that you would like to have.
 
+> Desktop applications are also affected, and any pages you visit that contain the exact name of the site you want to avoid (enter only the site name, not the link)
 ## Dependencies
 -- wmctrl [link to wmctrl](https://linux.die.net/man/1/wmctrl)  
 > sudo apt-get install wmctrl (ubuntu/debian)
