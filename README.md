@@ -12,5 +12,5 @@ Download the script and grant it permissions to run (chmod +x pomodoro.sh). When
 -- wmctrl [link to wmctrl](https://linux.die.net/man/1/wmctrl)  
 > sudo apt-get install wmctrl (ubuntu/debian)
 
--- zenity [link to wmctrl](https://help.gnome.org/users/zenity/stable/)
+-- zenity [link to zenity](https://help.gnome.org/users/zenity/stable/)
 > sudo apt-get install zenity
